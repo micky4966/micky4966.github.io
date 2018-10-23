@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="http://myxmltv.lescigales.org/xmltv.xml.gz,http://epg.clientportal.link/albania.xml.gz,http://epg.clientportal.link/austria.xml.gz,http://epg.clientportal.link/belgium.xml.gz,http://epg.clientportal.link/bulgaria.xml.gz,http://epg.clientportal.link/czech.xml.gz,http://epg.clientportal.link/denmark.xml.gz,http://epg.clientportal.link/estonia.xml.gz,http://epg.clientportal.link/ex-yu.xml.gz,http://epg.clientportal.link/france.xml.gz,http://epg.clientportal.link/germany.xml.gz,http://epg.clientportal.link/greece.xml.gz,http://epg.clientportal.link/hungary.xml.gz,http://epg.clientportal.link/italy.xml.gz,http://epg.clientportal.link/netherlands.xml.gz,http://epg.clientportal.link/norway.xml.gz,http://epg.clientportal.link/poland.xml.gz,http://epg.clientportal.link/portugal.xml.gz,http://epg.clientportal.link/romania.xml.gz,http://epg.clientportal.link/russia.xml.gz,http://epg.clientportal.link/spain.xml.gz,http://epg.clientportal.link/sweden.xml.gz,http://epg.clientportal.link/switzerland.xml.gz,http://epg.clientportal.link/turkey.xml.gz,http://epg.clientportal.link/uk.xml.gz,http://epg.clientportal.link/usa.xml.gz"
-#EXTINF:-1 French
+#EXTINF:-1,===== French =====
 #EXTINF:-1 tvg-id="RTSUn" tvg-name="RTS 1 CH" tvg-logo="http://static.iptv-epg.com/ch/RTS1.ch.png" tvg-chno="92" channel-id="92",RTS un HD
 rtp://239.186.68.3:10000
 #EXTINF:-1 tvg-id="RTSDeux" tvg-name="RTS 2 CH" tvg-logo="http://static.iptv-epg.com/ch/RTS2.ch.png" tvg-chno="94" channel-id="94",RTS deux HD
@@ -154,7 +154,7 @@ rtp://239.186.70.41:10000
 rtp://239.186.70.21:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="112" channel-id="112",TV Onex HD
 rtp://239.186.70.132:10000
-#EXTREM:english
+#EXTINF:-1,===== english =====
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-name="Al Jazeera English QA" tvg-logo="http://static.iptv-epg.com/qa/AlJazeeraEnglish.qa.png" tvg-chno="116" channel-id="116",Al Jazeera E HD
 rtp://239.186.68.171:10000
 #EXTINF:-1 tvg-id="BBC1.uk" tvg-name="BBC1 UK" tvg-logo="http://static.iptv-epg.com/uk/BBC1.uk.png" tvg-chno="119" channel-id="119",BBC One HD
@@ -474,7 +474,7 @@ rtp://239.186.68.32:10000
 rtp://239.186.68.31:10000
 #EXTINF:-1 tvg-id="ZeeOne.de" tvg-name="Zee One DE" tvg-logo="http://static.iptv-epg.com/de/ZeeOne.de.png" tvg-chno="345" channel-id="345",ZEEONE HD
 rtp://239.186.70.70:10000
-#EXTREM:italian
+#EXTINF:-1,===== italian =====
 #EXTINF:-1 tvg-id="RaiUno.it" tvg-name="Rai Uno IT" tvg-logo="http://static.iptv-epg.com/it/RaiUno.it.png" tvg-chno="385" channel-id="385",Rai1 HD
 rtp://239.186.68.36:10000
 #EXTINF:-1 tvg-id="RaiDue.it" tvg-name="Rai Due IT" tvg-logo="http://static.iptv-epg.com/it/RaiDue.it.png" tvg-chno="387" channel-id="387",Rai2 HD
@@ -599,7 +599,7 @@ rtp://239.186.64.161:10000
 rtp://239.186.66.184:10000
 #EXTINF:-1 tvg-id="VH1.it" tvg-name="VH1 IT" tvg-logo="http://static.iptv-epg.com/it/VH1.it.png" tvg-chno="418" channel-id="418",VH1 Italia
 rtp://239.186.66.240:10000
-#EXTREM:others
+#EXTINF:-1,===== others =====
 #EXTINF:-1 tvg-id="2MMonde.ma" tvg-name="2M Monde MA" tvg-logo="http://static.iptv-epg.com/ma/2MMonde.ma.png" tvg-chno="419" channel-id="419",2M Monde
 rtp://239.186.64.194:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="420" channel-id="420",360
