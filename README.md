@@ -6,17 +6,17 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <!-- Begin Jekyll SEO tag v2.5.0 -->
-<title>IPTV m3u Playlists for Swiss Providers | suisse-iptv.github.io</title>
+<title>IPTV m3u Playlists for Swiss Providers | micky4966.github.io</title>
 <meta name="generator" content="Jekyll v3.7.4" />
 <meta property="og:title" content="IPTV m3u Playlists for Swiss Providers" />
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="IPTV M3U Files for Swiss IP TV providers" />
 <meta property="og:description" content="IPTV M3U Files for Swiss IP TV providers" />
-<link rel="canonical" href="https://suisse-iptv.github.io/" />
-<meta property="og:url" content="https://iptv-ch.github.io/" />
-<meta property="og:site_name" content="suisse-iptv.github.io" />
+<link rel="canonical" href="https://micky4966.github.io/" />
+<meta property="og:url" content="https://micky4966.github.io/" />
+<meta property="og:site_name" content="micky4966.github.io" />
 <script type="application/ld+json">
-{"headline":"IPTV m3u Playlists for Swiss Providers","@type":"WebSite","url":"https://suisse-iptv.github.io/","name":"suisse-iptv.github.io","description":"IPTV M3U Files for Swiss IP TV providers","@context":"http://schema.org"}</script>
+{"headline":"IPTV m3u Playlists for Swiss Providers","@type":"WebSite","url":"https://micky4966.github.io/","name":"micky4966.github.io","description":"IPTV M3U Files for Swiss IP TV providers","@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
     <link rel="stylesheet" href="https://iptv-ch.github.io/assets/css/style.css?v=96226f6d3af353b87147e44962a92ded7f145fcb">
