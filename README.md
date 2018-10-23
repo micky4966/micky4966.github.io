@@ -4,7 +4,7 @@ This repository contains M3U playlist files for Swiss IPTV Providers. Here are t
 
 ## Swisscom TV HD + SD
 
-**URL: (https://micky4966.github.io/swisscom.m3u)**
+**URL: [Swisscom IPTV](https://micky4966.github.io/swisscom.m3u)**
 
 Many of the channels available on [Swisscom TV](https://www.swisscom.ch/en/residential/internet-television-fixednetwork/swisscom-tv.html).<br>
 This will only work on your home network if Swisscom is your broadband provider.<br>
