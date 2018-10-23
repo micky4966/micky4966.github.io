@@ -1,23 +1,13 @@
-<!DOCTYPE html>
-<html lang="en-US">
-  <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-  </head>
-  <body>
-    <div class="container-lg px-3 my-5 markdown-body">
-      
-<p>This repository contains M3U playlist files for Swiss IPTV Providers. Here are the files available:</p>
+# IPTV m3u Playlists for Swiss Providers
 
-<h2 id="swisscom-tv-hd--sd">Swisscom TV HD + SD</h2>
+This repository contains M3U playlist files for Swiss IPTV Providers. Here are the files available:
 
-<p><strong>URL: https://micky4966.github.io/swisscom.m3u</strong></p>
+## Swisscom TV HD + SD
 
-<p>Many of the channels available on <a href="https://www.swisscom.ch/en/residential/internet-television-fixednetwork/swisscom-tv.html">Swisscom TV</a>.<br />
-This will only work on your home network if Swisscom is your broadband provider.<br />
-This file only lists the HD channels in the case where a channel is available on both HD and non-HD.<br />
-EPG information from http://epg.clientportal.link and http://allfrtv.ga/xmltv.php are included.<br />
-<a href="https://www.regardtv.net/t6105-flux-iptv-swisscom">More information</a>.</p>
-  </body>
-</html>
+**URL: https://micky4966.github.io/swisscom.m3u**
+
+Many of the channels available on [Swisscom TV](https://www.swisscom.ch/en/residential/internet-television-fixednetwork/swisscom-tv.html).<br>
+This will only work on your home network if Swisscom is your broadband provider.<br>
+This file only lists the HD channels in the case where a channel is available on both HD and non-HD.<br>
+EPG information from http://epg.clientportal.link and http://allfrtv.ga/xmltv.php are included.<br>
+[More information](https://www.regardtv.net/t6105-flux-iptv-swisscom).
