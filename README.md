@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html lang="en-US">
   <head>
+        <title>IPTV m3u Playlists for Swiss Providers</title>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>IPTV m3u Playlists for Swiss Providers | iptv-ch.github.io</title>
   </head>
   <body>
     <div class="container-lg px-3 my-5 markdown-body">
