@@ -475,6 +475,28 @@ rtp://239.186.68.31:10000
 #EXTINF:-1 tvg-id="ZeeOne.de" tvg-name="Zee One DE" tvg-logo="http://static.iptv-epg.com/de/ZeeOne.de.png" tvg-chno="345" channel-id="345",ZEEONE HD
 rtp://239.186.70.70:10000
 #EXTREM:italian
+#EXTINF:-1 tvg-id="RaiUno.it" tvg-name="Rai Uno IT" tvg-logo="http://static.iptv-epg.com/it/RaiUno.it.png" tvg-chno="385" channel-id="385",Rai1 HD
+rtp://239.186.68.36:10000
+#EXTINF:-1 tvg-id="RaiDue.it" tvg-name="Rai Due IT" tvg-logo="http://static.iptv-epg.com/it/RaiDue.it.png" tvg-chno="387" channel-id="387",Rai2 HD
+rtp://239.186.70.77:10000
+#EXTINF:-1 tvg-id="RaiTre.it" tvg-name="Rai Tre IT" tvg-logo="http://static.iptv-epg.com/it/RaiTre.it.png" tvg-chno="389" channel-id="389",Rai3 HD
+rtp://239.186.70.78:10000
+#EXTINF:-1 tvg-id="Rai4.it" tvg-name="Rai 4 IT" tvg-logo="http://static.iptv-epg.com/it/Rai4.it.png" tvg-chno="390" channel-id="390",Rai4
+rtp://239.186.64.50:10000
+#EXTINF:-1 tvg-id="Rai5.it" tvg-name="Rai 5 IT" tvg-logo="http://static.iptv-epg.com/it/Rai5.it.png" tvg-chno="391" channel-id="391",Rai5
+rtp://239.186.66.179:10000
+#EXTINF:-1 tvg-id="Rete4.it" tvg-name="Rete 4" tvg-logo="" tvg-chno="380" channel-id="380",MEDIASET Rete4
+rtp://239.186.64.47:10000
+#EXTINF:-1 tvg-id="Canale5.it" tvg-name="Canale 5 IT" tvg-logo="http://static.iptv-epg.com/it/Canale5.it.png" tvg-chno="372" channel-id="372",MEDIASET Canale5 HD
+rtp://239.186.68.163:10000
+#EXTINF:-1 tvg-id="Italia1.it" tvg-name="Italia 1 IT" tvg-logo="http://static.iptv-epg.com/it/Italia1.it.png" tvg-chno="376" channel-id="376",MEDIASET ITALIA1 HD
+rtp://239.186.68.165:10000
+#EXTINF:-1 tvg-id="Italia2.it" tvg-name="Italia 2 IT" tvg-logo="http://static.iptv-epg.com/it/Italia2.it.png" tvg-chno="377" channel-id="377",MEDIASET ITALIA2
+rtp://239.186.66.44:10000
+#EXTINF:-1 tvg-id="La7.it" tvg-name="La7 IT" tvg-logo="http://static.iptv-epg.com/it/La7.it.png" tvg-chno="367" channel-id="367",LA7 HD
+rtp://239.186.70.7:10000
+#EXTINF:-1 tvg-id="La7D.it" tvg-name="La7D IT" tvg-logo="http://static.iptv-epg.com/it/La7D.it.png" tvg-chno="368" channel-id="368",LA7d
+rtp://239.186.64.164:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="346" channel-id="346",7G Telecity
 rtp://239.186.74.23:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="347" channel-id="347",ALICE
@@ -513,46 +535,24 @@ rtp://239.186.64.153:10000
 rtp://239.186.66.122:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="365" channel-id="365",Italia Channel
 rtp://239.186.74.19:10000
-#EXTINF:-1 tvg-id="La7.it" tvg-name="La7 IT" tvg-logo="http://static.iptv-epg.com/it/La7.it.png" tvg-chno="367" channel-id="367",LA7 HD
-rtp://239.186.70.7:10000
-#EXTINF:-1 tvg-id="La7D.it" tvg-name="La7D IT" tvg-logo="http://static.iptv-epg.com/it/La7D.it.png" tvg-chno="368" channel-id="368",LA7d
-rtp://239.186.64.164:10000
 #EXTINF:-1 tvg-id="MarcoPoloTV.de" tvg-name="Marco Polo TV DE" tvg-logo="http://static.iptv-epg.com/de/MarcoPoloTV.de.png" tvg-chno="369" channel-id="369",MARCOPOLO.TV
 rtp://239.186.74.20:10000
 #EXTINF:-1 tvg-id="20Mediaset.it" tvg-name="20 Mediaset IT" tvg-logo="http://static.iptv-epg.com/it/20Mediaset.it.png" tvg-chno="370" channel-id="370",MEDIASET 20 HD
 rtp://239.186.70.152:10000
-#EXTINF:-1 tvg-id="Canale5.it" tvg-name="Canale 5 IT" tvg-logo="http://static.iptv-epg.com/it/Canale5.it.png" tvg-chno="372" channel-id="372",MEDIASET Canale5 HD
-rtp://239.186.68.163:10000
 #EXTINF:-1 tvg-id="MediasetExtra.it" tvg-name="Mediaset Extra IT" tvg-logo="http://static.iptv-epg.com/it/MediasetExtra.it.png" tvg-chno="373" channel-id="373",MEDIASET EXTRA
 rtp://239.186.66.37:10000
 #EXTINF:-1 tvg-id="FocusTv.it" tvg-name="Focus Tv IT" tvg-logo="http://static.iptv-epg.com/it/FocusTv.it.png" tvg-chno="374" channel-id="374",MEDIASET Focus
 rtp://239.186.66.69:10000
-#EXTINF:-1 tvg-id="Italia1.it" tvg-name="Italia 1 IT" tvg-logo="http://static.iptv-epg.com/it/Italia1.it.png" tvg-chno="376" channel-id="376",MEDIASET ITALIA1 HD
-rtp://239.186.68.165:10000
-#EXTINF:-1 tvg-id="Italia2.it" tvg-name="Italia 2 IT" tvg-logo="http://static.iptv-epg.com/it/Italia2.it.png" tvg-chno="377" channel-id="377",MEDIASET ITALIA2
-rtp://239.186.66.44:10000
 #EXTINF:-1 tvg-id="Iris.it" tvg-name="Iris IT" tvg-logo="http://static.iptv-epg.com/it/Iris.it.png" tvg-chno="378" channel-id="378",MEDIASET IRIS
 rtp://239.186.64.75:10000
 #EXTINF:-1 tvg-id="La5.it" tvg-name="La5 IT" tvg-logo="http://static.iptv-epg.com/it/La5.it.png" tvg-chno="379" channel-id="379",MEDIASET LA5
 rtp://239.186.64.73:10000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="380" channel-id="380",MEDIASET Rete4
-rtp://239.186.64.47:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="381" channel-id="381",MEDIASET TGCom24
 rtp://239.186.64.214:10000
 #EXTINF:-1 tvg-id="TopCrime.it" tvg-name="Top Crime IT" tvg-logo="http://static.iptv-epg.com/it/TopCrime.it.png" tvg-chno="382" channel-id="382",MEDIASET TOP crime
 rtp://239.186.66.180:10000
 #EXTINF:-1 tvg-id="ParamountChannel.it" tvg-name="Paramount Channel IT" tvg-logo="http://static.iptv-epg.com/it/ParamountChannel.it.png" tvg-chno="383" channel-id="383",Paramount Channel I
 rtp://239.186.64.122:10000
-#EXTINF:-1 tvg-id="RaiUno.it" tvg-name="Rai Uno IT" tvg-logo="http://static.iptv-epg.com/it/RaiUno.it.png" tvg-chno="385" channel-id="385",Rai1 HD
-rtp://239.186.68.36:10000
-#EXTINF:-1 tvg-id="RaiDue.it" tvg-name="Rai Due IT" tvg-logo="http://static.iptv-epg.com/it/RaiDue.it.png" tvg-chno="387" channel-id="387",Rai2 HD
-rtp://239.186.70.77:10000
-#EXTINF:-1 tvg-id="RaiTre.it" tvg-name="Rai Tre IT" tvg-logo="http://static.iptv-epg.com/it/RaiTre.it.png" tvg-chno="389" channel-id="389",Rai3 HD
-rtp://239.186.70.78:10000
-#EXTINF:-1 tvg-id="Rai4.it" tvg-name="Rai 4 IT" tvg-logo="http://static.iptv-epg.com/it/Rai4.it.png" tvg-chno="390" channel-id="390",Rai4
-rtp://239.186.64.50:10000
-#EXTINF:-1 tvg-id="Rai5.it" tvg-name="Rai 5 IT" tvg-logo="http://static.iptv-epg.com/it/Rai5.it.png" tvg-chno="391" channel-id="391",Rai5
-rtp://239.186.66.179:10000
 #EXTINF:-1 tvg-id="RaiGulp.it" tvg-name="Rai Gulp IT" tvg-logo="http://static.iptv-epg.com/it/RaiGulp.it.png" tvg-chno="392" channel-id="392",Rai Gulp
 rtp://233.35.254.98:1234
 #EXTINF:-1 tvg-id="RaiMovie.it" tvg-name="Rai Movie IT" tvg-logo="http://static.iptv-epg.com/it/RaiMovie.it.png" tvg-chno="393" channel-id="393",Rai Movie
