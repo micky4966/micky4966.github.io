@@ -4,7 +4,6 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="https://iptv-ch.github.io/assets/css/style.css?v=96226f6d3af353b87147e44962a92ded7f145fcb">
   </head>
   <body>
     <div class="container-lg px-3 my-5 markdown-body">
