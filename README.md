@@ -11,3 +11,7 @@ This will only work on your home network if Swisscom is your broadband provider.
 This file only lists the HD channels in the case where a channel is available on both HD and non-HD.<br>
 EPG information from http://epg.clientportal.link and http://allfrtv.ga/xmltv.php are included.<br>
 [More information](https://www.regardtv.net/t6105-flux-iptv-swisscom).
+
+## Swisscom TV HD + SD xml
+
+**URL: [micky4966.github.io/mixed.xml](https://micky4966.github.io/mixed.xml)**
