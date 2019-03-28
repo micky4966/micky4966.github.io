@@ -9,8 +9,8 @@ rtp://239.186.70.78:10000
 rtp://239.186.64.50:10000
 #EXTINF:-1 tvg-id="Rai5.it" tvg-name="Rai 5" tvg-logo="http://static.iptv-epg.com/it/Rai5.it.png" tvg-chno="391" channel-id="391",Rai5
 rtp://239.186.66.179:10000
-#EXTINF:-1 tvg-id="Rete4.it" tvg-name="Rete 4" tvg-logo="" tvg-chno="380" channel-id="380",Rete4
-rtp://239.186.64.47:10000
+#EXTINF:-1 tvg-id="Rete4.it" tvg-name="Rete 4 HD" tvg-logo="" tvg-chno="380" channel-id="380",Rete4
+rtp://239.186.70.188:10000
 #EXTINF:-1 tvg-id="Canale5.it" tvg-name="Canale 5 HD" tvg-logo="http://static.iptv-epg.com/it/Canale5.it.png" tvg-chno="372" channel-id="372",Canale5 HD
 rtp://239.186.68.163:10000
 #EXTINF:-1 tvg-id="Italia1.it" tvg-name="Italia 1 HD" tvg-logo="http://static.iptv-epg.com/it/Italia1.it.png" tvg-chno="376" channel-id="376",Ialia1 HD
@@ -19,8 +19,8 @@ rtp://239.186.68.165:10000
 rtp://239.186.66.44:10000
 #EXTINF:-1 tvg-id="La7.it" tvg-name="La7" tvg-logo="http://static.iptv-epg.com/it/La7.it.png" tvg-chno="367" channel-id="367",LA7 HD
 rtp://239.186.70.7:10000
-#EXTINF:-1 tvg-id="La7D.it" tvg-name="La7D" tvg-logo="http://static.iptv-epg.com/it/La7D.it.png" tvg-chno="368" channel-id="368",LA7d
-rtp://239.186.64.164:10000
+#EXTINF:-1 tvg-id="La7D.it" tvg-name="La7d HD" tvg-logo="http://static.iptv-epg.com/it/La7D.it.png" tvg-chno="368" channel-id="368",LA7d
+rtp://239.186.70.6:10000
 #EXTINF:-1 tvg-id="" tvg-name="7G Telecity" tvg-logo="" tvg-chno="346" channel-id="346",7G Telecity
 rtp://239.186.74.23:10000
 #EXTINF:-1 tvg-id="" tvg-name="ALICE" tvg-logo="" tvg-chno="347" channel-id="347",Alice
@@ -123,6 +123,8 @@ rtp://239.186.64.161:10000
 rtp://239.186.66.184:10000
 #EXTINF:-1 tvg-id="VH1.it" tvg-name="VH1 IT" tvg-logo="http://static.iptv-epg.com/it/VH1.it.png" tvg-chno="418" channel-id="418",VH1 Italia
 rtp://239.186.66.240:10000
+#EXTINF:-1 tvg-id="RTL102.5TV.it" tvg-name="RTL 102.5 TV HD" tvg-logo="http://static.iptv-epg.com/it/RTL102.5TV.it.png" tvg-chno="418" channel-id="418",RTL 102.5 TV
+rtp://239.186.70.181:10000
 #EXTINF:-1, ===== French =====
 rtp://
 #EXTINF:-1 tvg-id="RTSUn" tvg-name="RTS 1 CH" tvg-logo="http://static.iptv-epg.com/ch/RTS1.ch.png" tvg-chno="92" channel-id="92",RTS un HD
